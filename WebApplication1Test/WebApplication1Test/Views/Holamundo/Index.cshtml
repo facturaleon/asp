@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Hola mundo Page";
+}
+
+<h1>Bienvenido a la Página de Hola mundo</h1>
+<p>Este es el contenido de la página de inicio.</p>
+@ViewBag.Message
+@ViewData["Nombre"]
+@TempData["Notice"]
+
+<ul>
+    @foreach (string Autos in (List<string>)ViewData["Autos"])
+    {
+        <li>@Autos</li>
+    }
+</ul>
+
+<ul>
+    @foreach (string Autos in @ViewBag.Autos)
+    {
+        <li>@Autos</li>
+    }
+</ul>

@@ -1,0 +1,104 @@
+﻿@using WebApplication1Test.Models
+@{
+    List<Cliente> clientesBag = ViewBag.ClientesEnviar;
+    List<Cliente> clientesData = (List<Cliente>)ViewData["Clientes"];
+    int TotalBag = clientesBag.Count;
+    int TotalData = clientesBag.Count;
+
+    //Más vistas
+    int num = 2;
+    int a = num * 5;
+    List<int> listaEnteros = new List<int>()
+    {
+    1,2,3,4,5,6,7
+    };
+
+}
+<p>Hola bienvenido a CLiente</p>
+@ViewBag.Message
+@ViewData["Nombre"]
+@TempData["Notice"]
+@ViewData["Clientes"]
+
+@a
+@num
+@(a+10)
+<h3>Estructuras en Razor ASP</h3>
+<h3>ForEach</h3>
+<ul>
+    @foreach(int entero in listaEnteros)
+    {
+        <li>@entero</li>
+    }
+</ul>
+<h3>For</h3>
+<ul>
+    @for(int j=0;j<=listaEnteros.Count-1;j++)
+    {
+        <li>@listaEnteros[j]</li>
+    }
+</ul>
+<h3>Switch</h3>
+@switch (num)
+{
+    case 1:
+        @("Lunes")
+        break;
+    case 2:
+    //Permite mostrar un texto @:
+        @:Martes
+        break;
+    case 3:
+        @Html.Raw("<label>Miercoles</label>");
+        break;
+    default:
+        <span>Otro</span>
+        break;
+}
+
+<h2>Primera tabla con ViewBag </h2>
+<table class="table table-striped table-bordered">
+    <header>
+    <tr>
+        <th>Id</th>
+        <th>Nombre</th>
+        <th>Edad</th>
+        <th>Correo</th>
+    </tr>
+    </header>
+    <tbody>
+        @for (int i = 0; i <= clientesBag.Count - 1; i++)
+        {
+            <tr>
+                <td>@clientesBag[i].id_cliente</td>
+                <td>@clientesBag[i].Nombre</td>
+                <td>@clientesBag[i].Edad</td>
+                <td>@clientesBag[i].Correo</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<h2>Segunda tabla con ViewData </h2>
+
+<table class="table table-striped table-bordered">
+    <header>
+    <tr>
+        <th>Id</th>
+        <th>Nombre</th>
+        <th>Edad</th>
+        <th>Correo</th>
+    </tr>
+    </header>
+    <tbody>
+        @for (int i = 0; i <= clientesData.Count - 1; i++)
+        {
+            <tr>
+                <td>@clientesData[i].id_cliente</td>
+                <td>@clientesData[i].Nombre</td>
+                <td>@clientesData[i].Edad</td>
+                <td>@clientesData[i].Correo</td>
+            </tr>
+        }
+    </tbody>
+</table>

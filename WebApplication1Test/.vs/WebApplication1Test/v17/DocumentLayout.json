@@ -1,0 +1,409 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\WebApplication1Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD6F82C-24B3-438B-919C-9C79975E2B47}|WebApplication1Test\\WebApplication1Test.csproj|c:\\users\\dell\\source\\repos\\webapplication1test\\webapplication1test\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD6F82C-24B3-438B-919C-9C79975E2B47}|WebApplication1Test\\WebApplication1Test.csproj|solutionrelative:webapplication1test\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD6F82C-24B3-438B-919C-9C79975E2B47}|WebApplication1Test\\WebApplication1Test.csproj|c:\\users\\dell\\source\\repos\\webapplication1test\\webapplication1test\\data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD6F82C-24B3-438B-919C-9C79975E2B47}|WebApplication1Test\\WebApplication1Test.csproj|solutionrelative:webapplication1test\\data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD6F82C-24B3-438B-919C-9C79975E2B47}|WebApplication1Test\\WebApplication1Test.csproj|c:\\users\\dell\\source\\repos\\webapplication1test\\webapplication1test\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD6F82C-24B3-438B-919C-9C79975E2B47}|WebApplication1Test\\WebApplication1Test.csproj|solutionrelative:webapplication1test\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD6F82C-24B3-438B-919C-9C79975E2B47}|WebApplication1Test\\WebApplication1Test.csproj|c:\\users\\dell\\source\\repos\\webapplication1test\\webapplication1test\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD6F82C-24B3-438B-919C-9C79975E2B47}|WebApplication1Test\\WebApplication1Test.csproj|solutionrelative:webapplication1test\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD6F82C-24B3-438B-919C-9C79975E2B47}|WebApplication1Test\\WebApplication1Test.csproj|c:\\users\\dell\\source\\repos\\webapplication1test\\webapplication1test\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD6F82C-24B3-438B-919C-9C79975E2B47}|WebApplication1Test\\WebApplication1Test.csproj|solutionrelative:webapplication1test\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD6F82C-24B3-438B-919C-9C79975E2B47}|WebApplication1Test\\WebApplication1Test.csproj|c:\\users\\dell\\source\\repos\\webapplication1test\\webapplication1test\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFD6F82C-24B3-438B-919C-9C79975E2B47}|WebApplication1Test\\WebApplication1Test.csproj|solutionrelative:webapplication1test\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD6F82C-24B3-438B-919C-9C79975E2B47}|WebApplication1Test\\WebApplication1Test.csproj|c:\\users\\dell\\source\\repos\\webapplication1test\\webapplication1test\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFD6F82C-24B3-438B-919C-9C79975E2B47}|WebApplication1Test\\WebApplication1Test.csproj|solutionrelative:webapplication1test\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD6F82C-24B3-438B-919C-9C79975E2B47}|WebApplication1Test\\WebApplication1Test.csproj|c:\\users\\dell\\source\\repos\\webapplication1test\\webapplication1test\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CFD6F82C-24B3-438B-919C-9C79975E2B47}|WebApplication1Test\\WebApplication1Test.csproj|solutionrelative:webapplication1test\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD6F82C-24B3-438B-919C-9C79975E2B47}|WebApplication1Test\\WebApplication1Test.csproj|c:\\users\\dell\\source\\repos\\webapplication1test\\webapplication1test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD6F82C-24B3-438B-919C-9C79975E2B47}|WebApplication1Test\\WebApplication1Test.csproj|solutionrelative:webapplication1test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD6F82C-24B3-438B-919C-9C79975E2B47}|WebApplication1Test\\WebApplication1Test.csproj|c:\\users\\dell\\source\\repos\\webapplication1test\\webapplication1test\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CFD6F82C-24B3-438B-919C-9C79975E2B47}|WebApplication1Test\\WebApplication1Test.csproj|solutionrelative:webapplication1test\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD6F82C-24B3-438B-919C-9C79975E2B47}|WebApplication1Test\\WebApplication1Test.csproj|c:\\users\\dell\\source\\repos\\webapplication1test\\webapplication1test\\webapplication1test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CFD6F82C-24B3-438B-919C-9C79975E2B47}|WebApplication1Test\\WebApplication1Test.csproj|solutionrelative:webapplication1test\\webapplication1test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD6F82C-24B3-438B-919C-9C79975E2B47}|WebApplication1Test\\WebApplication1Test.csproj|c:\\users\\dell\\source\\repos\\webapplication1test\\webapplication1test\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD6F82C-24B3-438B-919C-9C79975E2B47}|WebApplication1Test\\WebApplication1Test.csproj|solutionrelative:webapplication1test\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD6F82C-24B3-438B-919C-9C79975E2B47}|WebApplication1Test\\WebApplication1Test.csproj|c:\\users\\dell\\source\\repos\\webapplication1test\\webapplication1test\\views\\holamundo\\cliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFD6F82C-24B3-438B-919C-9C79975E2B47}|WebApplication1Test\\WebApplication1Test.csproj|solutionrelative:webapplication1test\\views\\holamundo\\cliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD6F82C-24B3-438B-919C-9C79975E2B47}|WebApplication1Test\\WebApplication1Test.csproj|c:\\users\\dell\\source\\repos\\webapplication1test\\webapplication1test\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFD6F82C-24B3-438B-919C-9C79975E2B47}|WebApplication1Test\\WebApplication1Test.csproj|solutionrelative:webapplication1test\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD6F82C-24B3-438B-919C-9C79975E2B47}|WebApplication1Test\\WebApplication1Test.csproj|c:\\users\\dell\\source\\repos\\webapplication1test\\webapplication1test\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFD6F82C-24B3-438B-919C-9C79975E2B47}|WebApplication1Test\\WebApplication1Test.csproj|solutionrelative:webapplication1test\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD6F82C-24B3-438B-919C-9C79975E2B47}|WebApplication1Test\\WebApplication1Test.csproj|c:\\users\\dell\\source\\repos\\webapplication1test\\webapplication1test\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFD6F82C-24B3-438B-919C-9C79975E2B47}|WebApplication1Test\\WebApplication1Test.csproj|solutionrelative:webapplication1test\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD6F82C-24B3-438B-919C-9C79975E2B47}|WebApplication1Test\\WebApplication1Test.csproj|c:\\users\\dell\\source\\repos\\webapplication1test\\webapplication1test\\controllers\\holamundocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD6F82C-24B3-438B-919C-9C79975E2B47}|WebApplication1Test\\WebApplication1Test.csproj|solutionrelative:webapplication1test\\controllers\\holamundocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD6F82C-24B3-438B-919C-9C79975E2B47}|WebApplication1Test\\WebApplication1Test.csproj|c:\\users\\dell\\source\\repos\\webapplication1test\\webapplication1test\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFD6F82C-24B3-438B-919C-9C79975E2B47}|WebApplication1Test\\WebApplication1Test.csproj|solutionrelative:webapplication1test\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD6F82C-24B3-438B-919C-9C79975E2B47}|WebApplication1Test\\WebApplication1Test.csproj|c:\\users\\dell\\source\\repos\\webapplication1test\\webapplication1test\\views\\holamundo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFD6F82C-24B3-438B-919C-9C79975E2B47}|WebApplication1Test\\WebApplication1Test.csproj|solutionrelative:webapplication1test\\views\\holamundo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD6F82C-24B3-438B-919C-9C79975E2B47}|WebApplication1Test\\WebApplication1Test.csproj|c:\\users\\dell\\source\\repos\\webapplication1test\\webapplication1test\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFD6F82C-24B3-438B-919C-9C79975E2B47}|WebApplication1Test\\WebApplication1Test.csproj|solutionrelative:webapplication1test\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD6F82C-24B3-438B-919C-9C79975E2B47}|WebApplication1Test\\WebApplication1Test.csproj|c:\\users\\dell\\source\\repos\\webapplication1test\\webapplication1test\\views\\holamundo\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFD6F82C-24B3-438B-919C-9C79975E2B47}|WebApplication1Test\\WebApplication1Test.csproj|solutionrelative:webapplication1test\\views\\holamundo\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD6F82C-24B3-438B-919C-9C79975E2B47}|WebApplication1Test\\WebApplication1Test.csproj|c:\\users\\dell\\source\\repos\\webapplication1test\\webapplication1test\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD6F82C-24B3-438B-919C-9C79975E2B47}|WebApplication1Test\\WebApplication1Test.csproj|solutionrelative:webapplication1test\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD6F82C-24B3-438B-919C-9C79975E2B47}|WebApplication1Test\\WebApplication1Test.csproj|c:\\users\\dell\\source\\repos\\webapplication1test\\webapplication1test\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CFD6F82C-24B3-438B-919C-9C79975E2B47}|WebApplication1Test\\WebApplication1Test.csproj|solutionrelative:webapplication1test\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD6F82C-24B3-438B-919C-9C79975E2B47}|WebApplication1Test\\WebApplication1Test.csproj|c:\\users\\dell\\source\\repos\\webapplication1test\\webapplication1test\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CFD6F82C-24B3-438B-919C-9C79975E2B47}|WebApplication1Test\\WebApplication1Test.csproj|solutionrelative:webapplication1test\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1Test\\WebApplication1Test\\Data\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1Test\\Data\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1Test\\WebApplication1Test\\Data\\DatabaseContext.cs",
+              "RelativeToolTip": "WebApplication1Test\\Data\\DatabaseContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:57:46.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1Test\\WebApplication1Test\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "WebApplication1Test\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1Test\\WebApplication1Test\\Models\\Usuario.cs",
+              "RelativeToolTip": "WebApplication1Test\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T15:51:30.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1Test\\WebApplication1Test\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1Test\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1Test\\WebApplication1Test\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebApplication1Test\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T14:20:00.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1Test\\WebApplication1Test\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1Test\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1Test\\WebApplication1Test\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1Test\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T14:30:12.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1Test\\WebApplication1Test\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "WebApplication1Test\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1Test\\WebApplication1Test\\Models\\Producto.cs",
+              "RelativeToolTip": "WebApplication1Test\\Models\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:04:54.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1Test\\WebApplication1Test\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "WebApplication1Test\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1Test\\WebApplication1Test\\Models\\Cliente.cs",
+              "RelativeToolTip": "WebApplication1Test\\Models\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:13:31.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1Test\\WebApplication1Test\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1Test\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1Test\\WebApplication1Test\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "WebApplication1Test\\Views\\Products\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T14:31:33.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1Test\\WebApplication1Test\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1Test\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1Test\\WebApplication1Test\\appsettings.json",
+              "RelativeToolTip": "WebApplication1Test\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-10T16:23:02.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1Test\\WebApplication1Test\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1Test\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1Test\\WebApplication1Test\\Program.cs",
+              "RelativeToolTip": "WebApplication1Test\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T16:23:16.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WebApplication1Test.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1Test\\WebApplication1Test\\WebApplication1Test.csproj",
+              "RelativeDocumentMoniker": "WebApplication1Test\\WebApplication1Test.csproj",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1Test\\WebApplication1Test\\WebApplication1Test.csproj",
+              "RelativeToolTip": "WebApplication1Test\\WebApplication1Test.csproj",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-21T16:22:27.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1Test\\WebApplication1Test\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication1Test\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1Test\\WebApplication1Test\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication1Test\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-10T16:08:55.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1Test\\WebApplication1Test\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1Test\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1Test\\WebApplication1Test\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1Test\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAqwCUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T16:23:34.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cliente.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1Test\\WebApplication1Test\\Views\\Holamundo\\Cliente.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1Test\\Views\\Holamundo\\Cliente.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1Test\\WebApplication1Test\\Views\\Holamundo\\Cliente.cshtml",
+              "RelativeToolTip": "WebApplication1Test\\Views\\Holamundo\\Cliente.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T10:26:47.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1Test\\WebApplication1Test\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1Test\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1Test\\WebApplication1Test\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplication1Test\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T16:23:00.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1Test\\WebApplication1Test\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1Test\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1Test\\WebApplication1Test\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApplication1Test\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T16:22:52.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1Test\\WebApplication1Test\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1Test\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1Test\\WebApplication1Test\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1Test\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAIBJwAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T16:09:48.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HolamundoController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1Test\\WebApplication1Test\\Controllers\\HolamundoController.cs",
+              "RelativeDocumentMoniker": "WebApplication1Test\\Controllers\\HolamundoController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1Test\\WebApplication1Test\\Controllers\\HolamundoController.cs",
+              "RelativeToolTip": "WebApplication1Test\\Controllers\\HolamundoController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwCUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T15:05:36.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1Test\\WebApplication1Test\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1Test\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1Test\\WebApplication1Test\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1Test\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACMAAAAAAAAAAAAuwCwAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T14:57:04.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1Test\\WebApplication1Test\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1Test\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1Test\\WebApplication1Test\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WebApplication1Test\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T16:22:46.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Welcome.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1Test\\WebApplication1Test\\Views\\Holamundo\\Welcome.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1Test\\Views\\Holamundo\\Welcome.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1Test\\WebApplication1Test\\Views\\Holamundo\\Welcome.cshtml",
+              "RelativeToolTip": "WebApplication1Test\\Views\\Holamundo\\Welcome.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T11:14:12.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1Test\\WebApplication1Test\\Views\\Holamundo\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1Test\\Views\\Holamundo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1Test\\WebApplication1Test\\Views\\Holamundo\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1Test\\Views\\Holamundo\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T15:25:48.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1Test\\WebApplication1Test\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1Test\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1Test\\WebApplication1Test\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebApplication1Test\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T16:22:43.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1Test\\WebApplication1Test\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebApplication1Test\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1Test\\WebApplication1Test\\appsettings.Development.json",
+              "RelativeToolTip": "WebApplication1Test\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-10T16:23:07.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\WebApplication1Test\\WebApplication1Test\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WebApplication1Test\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\WebApplication1Test\\WebApplication1Test\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WebApplication1Test\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAwAAAAAAAAAACBjwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-10T16:09:36.954Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
